@@ -1,4 +1,4 @@
-# 💫 About Me
+#  About Me
 
 I'm an aspiring Database Administrator with a passion for building reliable, secure, and high-performing data systems. I enjoy working with databases, optimizing queries, and designing solutions that keep information organized, accurate, and accessible.
 
